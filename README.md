@@ -2,7 +2,7 @@
 
 ## Sketch Principal para representar el prototipo de Dashboard de Laboratoria
 
-![UX](IMG/filtroGeneral.png)
+![UX](IMG/FiltroGeneral.png)
 ### Pagina scketch principal.
 	1. La pagina principal contiene, un menu de usuario, donde informa mensajes, favoritos y màs.
 	2. La seccion izquierda indica una busqueda general donde puede digitarse algun dato conocido y lineas siguientes muestra el listado general de busquedas, que incluye:
@@ -32,7 +32,7 @@
 		. Actualidad.
 
 ##. Descripcion detallada de filtros de busqueda.
-![UX](IMG/filtroDetallado.png )
+![UX](IMG/FiltroDetallado.png )
 ### Filtros detallados (secciòn izquierda de 1era pagina de prototipo).
 	1. Los filtros detallados contienen:
 		. Periodo:	2014 hasta la actualidad:
