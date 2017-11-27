@@ -31,7 +31,7 @@
 		. Muestra datos de redes sociales.
 		. Actualidad.
 
-##. Descripcion detallada de filtros de busqueda.
+## Descripcion detallada de filtros de busqueda.
 ![UX](IMG/FiltroDetallado.png )
 ### Filtros detallados (secciòn izquierda de 1era pagina de prototipo).
 	1. Los filtros detallados contienen:
@@ -46,7 +46,7 @@
 ## Pagina scketch representaciòn de filtros de busqueda, en este caso es de alumnas gradudas con promedio de 85 a 100%, de la sede de Lima.
 
 ![UI](IMG/filtrosEspecificos.png )
- ### Lista de Filtros de busqueda que incluye el prototipo presentado.
+### Lista de Filtros de busqueda que incluye el prototipo presentado.
 	1. Los requeridos
 		. # de alumnas inscritas
 		. # de alumnas que desertaron
